@@ -2,6 +2,7 @@
 This project is made in Python and using the tkinter GUI package
 
 v1.0
+
 How to install and run?
 1. Download the calc.py file
 2. Start the command prompt on your system
